@@ -93,6 +93,10 @@ body {
   -webkit-tap-highlight-color: rgba(17, 17, 17, 0); 
 }
 
+#btn-whitepaper {
+  color: red;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -2480,7 +2484,7 @@ textarea.form-control-lg {
 
 .btn-outline-light {
   --bs-btn-color: #f8f9fa;
-  --bs-btn-border-color: #f8f9fa;
+  --bs-btn-border-color: green;
   --bs-btn-hover-color: #111;
   --bs-btn-hover-bg: #f8f9fa;
   --bs-btn-hover-border-color: #f8f9fa;
