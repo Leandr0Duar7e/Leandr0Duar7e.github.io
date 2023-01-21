@@ -1,9 +1,5 @@
 /* Hide scrollbar */
-body::-webkit-scrollbar {
-    display: none; /* Chrome, Safari and Opera */
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
-}
+
 
 #btn-whitepaper {
     border: 0px;
