@@ -1,4 +1,16 @@
 /* Hide scrollbar */
+body {
+    -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    scrollbar-width: none;
+}
+/* -------------- */
 
 
 #btn-whitepaper {
